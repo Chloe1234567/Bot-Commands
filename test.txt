@@ -1,0 +1,42 @@
+Help = Get all public commands
+
+Warn [member] [reason] = Warn selected Member
+Kick [member] = Kick Selected Member
+Ban [member] = Ban Selected Member
+
+CurLanguage = Current Language
+SetLanguage [value] = Set Language
+
+PrepareRules = If you cannot add rules, please run this command first.
+CreateRule [Rule] = Create a server rule (Admins Only)
+PostRules = Post all established server rules (Admins Only)
+
+DisplayMembers = Enable Member Server Stats
+DisableDisplayMembers = Disable Member Server Stats
+
+rank = View your rank card
+rank-bg [HEX] = Set background color of your Rank Card (DM Only!)
+
+DelCat [catagory id] = Delete Catagory
+DelText [channel id] = Delete Text Channel
+DelVoice [channel id] = Delete Voice Channel
+
+NewCat [name] = Create Catagory
+NewText [name] [topic] [catagory id] = Create Text Channel
+NewVoice [name] [bitrate] [limit] [catagory id] = Create Voice Channel
+
+p [Search Term] = Add Song To Queue (Must be in Voice Channel)
+d = Disconnect [Admins only]
+s = Skip Current Song [Admins only]
+
+Clear [Amount] = Clear message bulks
+
+UserLookup [UserID] = Look up a user with their ID
+
+CustomEmbed = Create a custom Embed Message
+
+SetWM = Toggle Welcome Messages
+
+SetRU = Toggle Rank System
+
+SetCL [channel] = Set Chat Log Channel
